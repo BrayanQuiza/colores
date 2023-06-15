@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">colores</string>
+
+    <string name="titulo">Bienvenido al SENA</string>
+
+    <string name="texto">Hoy es martes 13 de junio del 2023 y nos encontramos en el ambiente 105 del SENA aprendiendo android studio</string>
+
+    <string name="adsi">ADSI el mejor</string>
+
+</resources>
